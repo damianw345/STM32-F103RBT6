@@ -22,5 +22,6 @@ http://www.micropik.com/PDF/HCSR04.pdf
 -Adafruit Bluefruit BLE UART Friend
 https://learn.adafruit.com/introducing-the-adafruit-bluefruit-le-uart-friend
 
-
+Module communicates via Bluetooth Low Energy with Adafruits' Android application "Bluefruit LE" running on smartphone.
+You can get the app from the Play store
 
